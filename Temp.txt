@@ -80,7 +80,16 @@ Dynamo DB:
 5.       Delete rows in both region table (N. Virginia/Canada Region) by adding TTL option.
 6.       Delete both the table
 
- 
+ Table - Customers
+ 	* customer_id (PK)
+	* first_name
+	* last_name
+	* phone
+	* email
+	* street
+	* city
+	* state
+	* zip_code
  
 Day4 Recordings:
  
